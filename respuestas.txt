@@ -12,3 +12,4 @@
 11. D
 12. D
 13. A pero son 64 subredes.
+14. B pero son 510 hosts.
